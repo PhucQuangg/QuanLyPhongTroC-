@@ -27,7 +27,7 @@ Nhập thông tin về số điện tiêu thụ hàng tháng.
 
 Nhập thông tin về số nước tiêu thụ hàng tháng.
 
-Công nghệ sử dụng:
+- Công nghệ sử dụng:
 
 Ngôn ngữ lập trình: C#
 
