@@ -27,6 +27,10 @@ Nhập thông tin về số điện tiêu thụ hàng tháng.
 
 Nhập thông tin về số nước tiêu thụ hàng tháng.
 
+Tính toán tiền điện, tiền nước dựa trên số liệu nhập.
+
+Tổng hợp và tính toán tiền thuê nhà hàng tháng.
+
 - Công nghệ sử dụng:
 
 Ngôn ngữ lập trình: C#
@@ -34,8 +38,6 @@ Ngôn ngữ lập trình: C#
 Cơ sở dữ liệu: không có
 
 Giao diện người dùng: Windows Forms 
-Tính toán tiền điện, tiền nước dựa trên số liệu nhập.
 
-Tổng hợp và tính toán tiền thuê nhà hàng tháng.
 
 
